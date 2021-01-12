@@ -1,6 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const UssdMenu = require('ussd-menu-builder');
 const bcrypt = require('bcryptjs');
 
 //utils
